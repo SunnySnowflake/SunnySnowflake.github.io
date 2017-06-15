@@ -1,0 +1,26 @@
+h1 {
+	font-size: 200px;
+	color: pink;
+}
+
+body {
+	background-color: pink !important;
+}
+.blue {
+	color: blue; 
+	font-size: 300px
+}
+
+.container-fluid {
+	background-color: lightgreen;
+}
+
+.container {
+	text-align: center;
+	width: 90%;
+	background-color: white;
+}
+
+.about-pictures {
+	font-size: 200px;
+}
